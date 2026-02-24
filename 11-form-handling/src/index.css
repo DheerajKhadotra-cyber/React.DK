@@ -1,0 +1,32 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    /* font-family: 'helvetica neue'; */
+    background-color: black;
+    color:beige
+
+}
+
+/* Ensure full viewport coverage */
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+input{
+  background-color:aqua;
+  margin:30px 50px;
+  color:brown;
+  padding:10px 20px;
+  margin:10px 20px;
+  border-radius:5px;
+}
+button{
+  background-color:aqua;
+  color:gray;
+  border-radius:5px;
+  padding:10px 20px;
+  margin:10px 20px;
+}

@@ -1,0 +1,25 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    background-color: black;
+    color:bisque;
+}
+
+/* Ensure full viewport coverage */
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+button{
+    background-color: gray;
+    border-radius:15px;
+    height: 150px;
+    width:150px;
+}
+div{
+    padding:30px;
+}

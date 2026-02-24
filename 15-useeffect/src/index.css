@@ -1,0 +1,27 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'helvetica neue';
+    background-color:aqua;
+}
+
+/* Ensure full viewport coverage */
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+button{
+  padding:20px 40px;
+  margin:40px;
+  background-color: gray;
+  border-radius:20px;
+  border:2px solid white;
+  
+}
+h1{
+  padding:20px 40px;
+  margin:40px;
+}
